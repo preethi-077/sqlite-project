@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SQLite Operations</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_insert">Insert Details</string>
+    <string name="title_activity_read">Read Stored Details</string>
+    <string name="title_activity_update">Update Stored Details</string>
+    <string name="title_activity_delete">Delete Details</string>
+</resources>
